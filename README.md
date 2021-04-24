@@ -1,2 +1,2 @@
-# ikram.github.com
-My personal web page
+# My personal page
+This project contains my personal web pages
